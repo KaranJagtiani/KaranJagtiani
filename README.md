@@ -12,26 +12,26 @@
 📫 &nbsp; Reach me on any of the platforms given above!
 
 #### Languages
+<img align="left" alt="Golang" src="https://img.shields.io/badge/Go-00ACD7?style=for-the-badge&logo=go&logoColor=white" />
 <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" alt="Golang" src="https://img.shields.io/badge/Go-00ACD7?style=for-the-badge&logo=go&logoColor=white" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <br>
 
 #### Frontend / Frameworks
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" alt="SCSS" src="https://img.shields.io/badge/SCSS-CE679A?style=for-the-badge&logo=sass&logoColor=white"/>
 <img align="left" alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=1d1d1d&style=for-the-badge"/>
 <img align="left" alt="Angular" src="https://img.shields.io/badge/-Angular-dd1b16?logo=angular&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="Electron" src="https://img.shields.io/badge/-Electron-012f66?logo=electron&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left" alt="SCSS" src="https://img.shields.io/badge/SCSS-CE679A?style=for-the-badge&logo=sass&logoColor=white"/>
 
 <br>
 
 #### Backend
 <img align="left" alt="Node JS" src="https://img.shields.io/badge/-NodeJS-3c873a?logo=node.js&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Ruby on Rails" src="https://img.shields.io/badge/Rails-C60000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
-<img align="left" alt="Nginx" src="https://img.shields.io/badge/-Nginx-009138?logo=nginx&logoColor=white&style=for-the-badge" />
+<img align="left" alt="Ruby on Rails" src="https://img.shields.io/badge/-Flask-ffffff?logo=flask&logoColor=black&style=for-the-badge" />
 
 <br>
 
@@ -43,9 +43,12 @@
 <br>
 
 #### Others
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Git-f34f29?logo=git&logoColor=white&style=for-the-badge" />
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Linux-333333?logo=linux&logoColor=white&style=for-the-badge" />
+<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-f34f29?logo=git&logoColor=white&style=for-the-badge" />
+<img align="left" alt="Git" src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge" />
+<img align="left" alt="Git" src="https://img.shields.io/badge/-Kubernetes-3970e4?logo=kubernetes&logoColor=white&style=for-the-badge" />
 <img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-146eb4?logo=amazon&logoColor=white&style=for-the-badge" />
+<img align="left" alt="Nginx" src="https://img.shields.io/badge/-Nginx-009138?logo=nginx&logoColor=white&style=for-the-badge" />
+<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-333333?logo=linux&logoColor=white&style=for-the-badge" />
 
 <br>
 
