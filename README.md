@@ -1,4 +1,4 @@
-## Hi there&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px"> I'm Karan Jagtiani&nbsp; :muscle: :nerd_face:
+## Hi there&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px"> I'm Karan&nbsp;:muscle: :nerd_face:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karanjagtiani/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:karanjagtiani04@gmail.com "Connect via Email")
@@ -8,18 +8,30 @@
 🏡 &nbsp; I am from Pune, Maharashtra.  
 🎓 &nbsp; Currently pursuing B.Tech in Computer Engineering at Vishwakarma University, Pune.  
 ❤️ &nbsp; Learning new technologies, teaching and applying them in the real-world is my passion!  
-💬 &nbsp; Ask me about anything! Would love to connect and chat about technology!  
-📫 &nbsp; Reach me on any of the platforms given above!
+💬 &nbsp; Ask me about anything! Would love to connect and chat about technology or fitness!  
+📫 &nbsp; You can reach out to me on any of the platforms given above!
 
-#### Languages
+### <div align="center">:bulb: Languages</div>
+<hr>
 <img align="left" alt="Golang" src="https://img.shields.io/badge/Go-00ACD7?style=for-the-badge&logo=go&logoColor=white" />
 <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <br>
+<br>
 
-#### Frontend / Frameworks
+### <div align="center">:heartbeat: Backend</div>
+<hr>
+<img align="left" alt="Node JS" src="https://img.shields.io/badge/-NodeJS-3c873a?logo=node.js&logoColor=white&style=for-the-badge" />
+<img align="left" alt="Ruby on Rails" src="https://img.shields.io/badge/Rails-C60000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+<img align="left" alt="Ruby on Rails" src="https://img.shields.io/badge/-Flask-ffffff?logo=flask&logoColor=black&style=for-the-badge" />
+
+<br>
+<br>
+
+### <div align="center">:paintbrush: Frontend</div>
+<hr>
 <img align="left" alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=1d1d1d&style=for-the-badge"/>
 <img align="left" alt="Angular" src="https://img.shields.io/badge/-Angular-dd1b16?logo=angular&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="Electron" src="https://img.shields.io/badge/-Electron-012f66?logo=electron&logoColor=white&style=for-the-badge"/>
@@ -27,22 +39,19 @@
 <img align="left" alt="SCSS" src="https://img.shields.io/badge/SCSS-CE679A?style=for-the-badge&logo=sass&logoColor=white"/>
 
 <br>
-
-#### Backend
-<img align="left" alt="Node JS" src="https://img.shields.io/badge/-NodeJS-3c873a?logo=node.js&logoColor=white&style=for-the-badge" />
-<img align="left" alt="Ruby on Rails" src="https://img.shields.io/badge/Rails-C60000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
-<img align="left" alt="Ruby on Rails" src="https://img.shields.io/badge/-Flask-ffffff?logo=flask&logoColor=black&style=for-the-badge" />
-
 <br>
 
-#### Databases
+ ### <div align="center">:children_crossing: Database</div>
+ <hr>
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-00618A?logo=mysql&logoColor=ffffff&style=for-the-badge" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3FA037?logo=mongodb&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Elastic Search" src="https://img.shields.io/badge/Elastic%20Search-F0BF1A?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 
 <br>
+<br>
 
-#### Others
+ ### <div align="center">:rocket: Others</div>
+ <hr>
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-f34f29?logo=git&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Kubernetes-3970e4?logo=kubernetes&logoColor=white&style=for-the-badge" />
