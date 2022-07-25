@@ -60,8 +60,8 @@
 ## <div align="center">Stats</div>
 
 <div align="center">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=KaranJagtiani&custom_title=Karan+Jagtiani%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=2088FF&text_color=dedede&icon_color=0390e8&cache_seconds=1000" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KaranJagtiani&custom_title=Karan+Jagtiani%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=2088FF&text_color=dedede&icon_color=0390e8&cache_seconds=1000" />
   
-  <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJagtiani&background=00000000&hide_border=true&stroke=878787&ring=ff935f&fire=FF732E&currStreakNum=ededed&sideNums=ededed&currStreakLabel=dedede&sideLabels=dedede&dates=b0b0b0" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJagtiani&background=00000000&hide_border=true&stroke=878787&ring=ff935f&fire=FF732E&currStreakNum=ededed&sideNums=ededed&currStreakLabel=dedede&sideLabels=dedede&dates=b0b0b0" />
 </div
 
