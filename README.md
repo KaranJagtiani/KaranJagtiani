@@ -1,4 +1,4 @@
-## Hi there&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px"> I'm Karan&nbsp;:muscle: :nerd_face:
+## Hey&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px"> I'm Karan
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karanjagtiani/ "Connect on LinkedIn")
 [![Medium Badge](https://img.shields.io/badge/-Medium-1c1c1c?style=flat&logo=Medium&logoColor=white)](https://karanjagtiani.medium.com/ "Follow me on Medium")
@@ -8,7 +8,7 @@
 
 :house:&nbsp; I am from Pune, Maharashtra.  
 :man_technologist:&nbsp; Currently a full-time Software Engineer at HackerRank.  
-:heart:&nbsp; Learning new technologies, teaching and applying them in the real-world is my passion!  
+:heart:&nbsp; Learning new technologies, teaching, and applying them in the real world is my passion!  
 :running_man:&nbsp; Strong believer in living a fit lifestyle! A fit mind is a calm & productive mind.  
 💬 &nbsp; Ask me about anything! Would love to connect and chat about technology or fitness!  
 :mailbox:&nbsp; You can reach out to me on any of the platforms given above!
@@ -59,9 +59,24 @@
 
 ## <div align="center">Stats</div>
 
+<!--
+![](https://github-readme-stats.vercel.app/api?username=KaranJagtiani&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KaranJagtiani&theme=algolia&hide_border=false)<br/>
+</div>
+-->
+
+<!--
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KaranJagtiani&custom_title=Karan+Jagtiani%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=2088FF&text_color=dedede&icon_color=0390e8&cache_seconds=1000" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KaranJagtiani&custom_title=Karan+Jagtiani%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=2088FF&text_color=dedede&icon_color=0390e8&cache_seconds=1000" />
   
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJagtiani&background=00000000&hide_border=true&stroke=878787&ring=ff935f&fire=FF732E&currStreakNum=ededed&sideNums=ededed&currStreakLabel=dedede&sideLabels=dedede&dates=b0b0b0" />
+</div
+-->
+
+
+<div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KaranJagtiani&custom_title=Karan+Jagtiani%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
+  
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJagtiani&hide_border=true&theme=algolia" />
 </div
 
