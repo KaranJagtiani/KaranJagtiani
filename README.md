@@ -43,7 +43,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-00618A?logo=mysql&logoColor=ffffff&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/-Postgres-0064a5?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?logo=mongodb&logoColor=white&style=for-the-badge)
-![Elastic Search](https://img.shields.io/badge/Elastic%20Search-F0BF1A?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Elastic Search](https://img.shields.io/badge/Elastic%20Search-66b5ae?style=for-the-badge&logo=elasticsearch&logoColor=ffffff)
 
 
  ### :rocket: Others
@@ -59,24 +59,9 @@
 
 ## <div align="center">Stats</div>
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=KaranJagtiani&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KaranJagtiani&theme=algolia&hide_border=false)<br/>
+<div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KaranJagtiani&custom_title=Karan+Jagtiani%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=2e90ff&text_color=f0f0f0&icon_color=2bb389&cache_seconds=1000" />
+
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJagtiani&background=00000000&hide_border=true&stroke=878787&ring=2e90ff&fire=2e90ff&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=2bb389&sideLabels=2bb389&dates=dedede" />
 </div>
--->
-
-<!--
-<div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KaranJagtiani&custom_title=Karan+Jagtiani%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=2088FF&text_color=dedede&icon_color=0390e8&cache_seconds=1000" />
-  
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJagtiani&background=00000000&hide_border=true&stroke=878787&ring=ff935f&fire=FF732E&currStreakNum=ededed&sideNums=ededed&currStreakLabel=dedede&sideLabels=dedede&dates=b0b0b0" />
-</div
--->
-
-
-<div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KaranJagtiani&custom_title=Karan+Jagtiani%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
-  
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJagtiani&hide_border=true&theme=algolia" />
-</div
 
