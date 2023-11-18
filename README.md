@@ -6,11 +6,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:karanjagtiani04@gmail.com "Connect via Email")
 
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karanjagtiani/ "Connect via Instagram")-->
+### I'm a generalist focused on DevOps and Backend
 
-
-#### :house:&nbsp; I am from Pune, India.
-#### :man_technologist:&nbsp; Currently a full-time Software Engineer at HackerRank.  
-#### :heart:&nbsp; Learning new technologies, teaching, and applying them in the real world is my passion!  
+#### :house:&nbsp; Originally from Pune, India. Currently based in Bengaluru.
+#### :building_construction:&nbsp; Generalist with a focus on DevOps and Backend.
+#### :man_technologist:&nbsp; Currently working as a Software Engineer at [Storylane](https://www.storylane.io/) (YC S21), a startup focuced on helping companies build interactive demos of their product. Previously worked at HackerRank.  
+#### :heart:&nbsp; Learning new technologies, sharing knowledge, and applying them in the real world is my passion!  
 #### :running_man:&nbsp; Strong believer in living a fit lifestyle! A fit mind is a calm & productive mind.  
 #### 💬 &nbsp; Ask me about anything! Would love to connect and chat about technology or fitness!  
 
@@ -19,13 +20,12 @@
 
 ![Node JS](https://img.shields.io/badge/-NodeJS-3c873a?logo=node.js&logoColor=white&style=for-the-badge)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-C60000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-ffffff?logo=flask&logoColor=black&style=for-the-badge)
 
  ### :rocket: Infrastructure
 
 ![AWS](https://img.shields.io/badge/-AWS-146eb4?logo=amazon&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-3970e4?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/-Nginx-009138?logo=nginx&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-333333?logo=linux&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-f34f29?logo=git&logoColor=white&style=for-the-badge)
@@ -43,13 +43,11 @@
 ![Golang](https://img.shields.io/badge/Go-00ACD7?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Ruby](https://img.shields.io/badge/Ruby-850014?style=for-the-badge&logo=ruby&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ### :paintbrush: Frontend
 
 ![NextJS](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/-Angular-dd1b16?logo=angular&logoColor=white&style=for-the-badge)
 ![Electron](https://img.shields.io/badge/-Electron-012f66?logo=electron&logoColor=white&style=for-the-badge)
 <!--
@@ -64,6 +62,4 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KaranJagtiani&custom_title=Karan+Jagtiani%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=2e90ff&text_color=f0f0f0&icon_color=2bb389&cache_seconds=1000" />
 
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJagtiani&background=00000000&hide_border=true&stroke=878787&ring=2e90ff&fire=2e90ff&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=2bb389&sideLabels=2bb389&dates=dedede" />
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KaranJagtiani.KaranJagtiani)
 </div>
