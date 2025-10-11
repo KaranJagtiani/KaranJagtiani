@@ -10,15 +10,14 @@
 ## 🧑‍💻 About Me
 
 - 🔭 **Current Role:** Cloud Architect at [Storylane](https://www.storylane.io/) (YC S21)
+- 🎯 **Working On:** Creator, Maintainer of [Skyflo.ai](https://skyflo.ai)
 - 🌍 **Location:** Based in Pune, India
-- 🧠 **Interests:** AI Agents, Cloud and DevOps.
+- 🧠 **Interests:** AI Agents, Cloud Native, and DevOps.
 
-## 💻 Working on Skyflo.ai
+## 💻 Skyflo.ai
 
 AI copilot for DevOps engineers and SREs that turns complex Kubernetes workflows and CI/CD operations into safe, human-in-the-loop conversations, cutting incident response time and increasing productivity.
 
-Website: [https://skyflo.ai](https://skyflo.ai)
-
 ## 💬 Let's Connect
 
-I'm always open to discussing technology, DevOps, backend development, or fitness. Feel free to reach out through any of the platforms bove!
+I'm always open to discussing technology, DevOps, AI, or fitness. Feel free to reach out!
