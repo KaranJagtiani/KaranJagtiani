@@ -6,7 +6,7 @@
 
 **Building the autonomous operating layer for engineering.**
 
-Skyflo sits above coding agents, models, tools, MCP servers, cloud infrastructure, and developer workflows to own the mission across them.
+Skyflo coordinates agents, models, tools, MCP servers, and infrastructure while maintaining ownership of the mission from intent to outcome.
 
 [karan.social](https://karan.social) · [Skyflo](https://skyflo.ai) · [X](https://x.com/karanjagtiani04) · [LinkedIn](https://www.linkedin.com/in/karanjagtiani/) · [Medium](https://karanjagtiani.medium.com/) · [Email](mailto:karan@skyflo.ai)
 
@@ -18,49 +18,51 @@ Skyflo sits above coding agents, models, tools, MCP servers, cloud infrastructur
 
 AI agents are becoming exceptionally good at execution.
 
-The harder problem is no longer getting an agent to write code. It is giving autonomous systems the context, capabilities, coordination, state, and recovery mechanisms required to complete real engineering missions reliably.
+The harder problem is building systems capable of coordinating that intelligence across real engineering environments while preserving context, state, reliability, and control.
 
-[**Skyflo**](https://skyflo.ai) is an agentic engineering platform built around that problem.
+[**Skyflo**](https://skyflo.ai) is built around that problem.
 
-It operates across **code, cloud, CI/CD, and production infrastructure**, orchestrating specialized agents and existing engineering capabilities while maintaining ownership of the mission from intent to outcome.
+It operates across **code, cloud, CI/CD, and production infrastructure**, orchestrating specialized agents and existing engineering capabilities across long-running missions.
 
-Use the tools you already trust. Skyflo coordinates the system around them.
+Bring the tools you already trust. Skyflo operates above them.
 
 → [skyflo.ai](https://skyflo.ai)  
 → [github.com/skyflo-ai](https://github.com/skyflo-ai)
 
 ---
 
-## What I think about
+## Focus
 
-My work sits at the intersection of:
+My work is centered on:
 
-- **Autonomous engineering systems** and long-horizon AI agents
-- **Multi-agent orchestration**, context management, and reliable execution
-- **Distributed systems**, Kubernetes, and cloud-native infrastructure
+- **Autonomous engineering systems** and long-horizon agents
+- **Multi-agent orchestration**, context, state, and reliable execution
+- **Distributed systems**, Kubernetes, and cloud infrastructure
 - **Developer platforms**, CI/CD, and production operations
-- The transition from **AI-assisted software engineering to autonomous software organizations**
+- The transition from **AI-assisted engineering to autonomous engineering systems**
 
-I am particularly interested in systems where intelligence is only one component. The real engineering challenge is everything required to make that intelligence useful, stateful, observable, recoverable, and capable of acting safely in the real world.
+Intelligence alone is not enough. The difficult engineering lies in making it stateful, observable, recoverable, controllable, and capable of operating reliably in the real world.
 
 ---
 
 ## Background
 
-Before focusing on Skyflo, I spent my career building and operating production infrastructure and distributed systems.
+My foundation is in building and operating production systems.
 
-Currently a **Cloud Architect at [Storylane](https://www.storylane.io/) (YC S21)**, where I have led cloud infrastructure, Kubernetes, developer operations, CI/CD, platform reliability, and security.
+I currently work as a **Cloud Architect at [Storylane](https://www.storylane.io/) (YC S21)**, where I have led cloud infrastructure, Kubernetes, developer operations, CI/CD, platform reliability, and security.
 
-Previously at **HackerRank**, working across backend engineering and infrastructure at scale.
+Previously, I worked across backend engineering and infrastructure at **HackerRank**.
 
-That background shapes how I approach AI systems today: not as demos, but as production systems that have to survive contact with reality.
+That experience shapes how I build AI systems today: not as isolated demos, but as production systems expected to survive contact with reality.
 
 ---
 
-## Elsewhere
-
-I write and talk about **AI agents, engineering infrastructure, startups, cloud systems, and the changing shape of software development**.
-
-[**karan.social**](https://karan.social) · [LinkedIn](https://www.linkedin.com/in/karanjagtiani/) · [X / @karanjagtiani04](https://x.com/karanjagtiani04) · [Medium](https://karanjagtiani.medium.com/)
-
-For anything specific: [karan@skyflo.ai](mailto:karan@skyflo.ai)
+<p align="center">
+  <a href="https://karan.social"><strong>karan.social</strong></a>
+  ·
+  <a href="https://skyflo.ai">Skyflo</a>
+  ·
+  <a href="https://x.com/karanjagtiani04">X</a>
+  ·
+  <a href="https://www.linkedin.com/in/karanjagtiani/">LinkedIn</a>
+</p>
