@@ -2,7 +2,7 @@
 
 # Karan Jagtiani
 
-### Founder of [Skyflo.ai](https://skyflo.ai)
+### Founder, [Skyflo](https://skyflo.ai)
 
 **Building the autonomous operating layer for engineering.**
 
@@ -61,6 +61,6 @@ That background shapes how I approach AI systems today: not as demos, but as pro
 
 I write and talk about **AI agents, engineering infrastructure, startups, cloud systems, and the changing shape of software development**.
 
-[LinkedIn](https://www.linkedin.com/in/karanjagtiani/) · [X / @karanjagtiani04](https://x.com/karanjagtiani04) · [Medium](https://karanjagtiani.medium.com/)
+[**karan.social**](https://karan.social) · [LinkedIn](https://www.linkedin.com/in/karanjagtiani/) · [X / @karanjagtiani04](https://x.com/karanjagtiani04) · [Medium](https://karanjagtiani.medium.com/)
 
 For anything specific: [karan@skyflo.ai](mailto:karan@skyflo.ai)
